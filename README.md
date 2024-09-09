@@ -19,7 +19,7 @@ To use Jarvis AI, follow these steps:
    https://github.com/romer2010/ADVANCED-JARVIS.git
 2. Navigate to the directory:
    ```bash
-   cd jarvis-ai
+   cd advanced jarvis
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
