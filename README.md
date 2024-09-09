@@ -36,5 +36,4 @@ Example:
   User: What’s the weather today?
   Jarvis: The weather today is sunny with a high of 25°C.
 
-![logo](https://github.com/user-attachments/assets/e26217a2-5248-46a5-81b8-88d2164cc58a)
 
