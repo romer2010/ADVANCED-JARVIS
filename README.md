@@ -17,25 +17,5 @@ To use Jarvis AI, follow these steps:
 1. Clone the repository:
    ```bash
    https://github.com/romer2010/ADVANCED-JARVIS.git
-2. Navigate to the directory:
-   '''bash
-   cd jarvis-ai
-4. Install dependencies:
-   pip install -r requirements.txt
-5. Run the application:
-   python jarvis.py
 
-Usage
-Once Jarvis is running, you can interact with it via the command line or integrate it into other applications. Simply type your query, and Jarvis will respond with helpful information or execute the task you've asked.
-
-User: What’s the weather today?
-Jarvis: The weather today is sunny with a high of 25°C.
-
-Customization
-You can customize Jarvis by adding more features or modifying existing ones. Check out the config.json file to personalize commands or add your own API keys for external services.
-
-Contributing
-If you'd like to contribute to Jarvis, feel free to fork this repository, make your changes, and submit a pull request.
-
-License
-This project is licensed under the MIT License.
+cd jarvis-ai
