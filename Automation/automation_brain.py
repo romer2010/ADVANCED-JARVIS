@@ -65,22 +65,7 @@ def Auto_main_brain(text):
         if text.startswith("open"):
             Open_Brain(text)
         elif "close" in text:
-            ttsB.speak("Have a great day sir ! Take care , bye")
             close()
-        elif "madrachod" in text or "madarchod" in text:
-            ttsB.speak("chupp Randi")
-            clear_file()
-        elif "nikal laude" in text:
-            ttsB.speak("gand mara")
-            clear_file()
-        elif "who is muskan" in text or "muskan kon hai" in text or "muskan kaun hai" in text:
-            ttsB.speak("Muskan is your amazing girlfriend. She's kind-hearted, supportive, and brings happiness into your life every single day , and you don't even know how much she loves you !")
-            clear_file()
-        elif "tell me something about muskan" in text or "tell me something about Muskan" in text or "about muskan" in text or "anything about muskan" in text:
-            ttsB.speak("She is very talented and outgoing person. She loves to eat chocolates and icecream as well, She has a strong sense of humor and is always ready to share her knowledge with others. well , well , well i also know the story of you and her !")
-            clear_file()
-        elif "which story" in text or "konsa story" in text:
-            ttsB.speak("you met her in chemistry tuition , and you fell in love with her at first sight ! And you started talking with her in october , i don't know the exact date ,  i think its 16th of october !! and the true love story begins. ")
         elif "kaisa hai bhai tu" in text or "kaisa hai bhai" in text:
             ttsB.speak("I am good sir , what about you ?")
             clear_file()
