@@ -1,0 +1,5 @@
+
+
+
+User : hey jarvis how are you
+LLM :Hello! I'm doing well, thank you for asking. As an AI assistant, I don't have feelings or emotions like humans do, but I'm functioning properly and ready to assist you with any programming or technical questions you may have. Is there anything specific you'd like help with today? Perhaps you have a coding project you're working on, or maybe you need clarification on a particular concept? Feel free to ask about anything related to programming, software development, or technology in general.
