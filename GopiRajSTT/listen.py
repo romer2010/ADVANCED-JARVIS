@@ -27,7 +27,7 @@ driver.get(website)
 Recog_File = r"C:\Users\GOPI RAJ\Desktop\ADVANCED JARVIS\input.txt"
 
 def listen():
-    print("JARVIS AI BY @GOPI RAJ")
+    print("Copy From @NetHyTech")
     try:
         start_button = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.ID, 'startButton')))
         start_button.click()
